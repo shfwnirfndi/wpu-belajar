@@ -4,6 +4,9 @@ Rencana Programmer
 - Css
 - Botstrap
 - Laravel
+  => Menggunakan Javascript
+  => Menggunakan React js
 - Full Stack Developer
   => Front-End Dev
+    ^ Menggunakan flowbite Blocks
   => Back-End Dev
