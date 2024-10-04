@@ -4,6 +4,9 @@ Rencana Programmer
 - Css
 - Botstrap
 - Laravel
+  => Menggunakan laravel 11
 - Full Stack Developer
   => Front-End Dev
+      ^ Bootstrap
   => Back-End Dev
+      ^ Mysql & Laragon
