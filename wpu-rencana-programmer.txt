@@ -3,10 +3,8 @@ Rencana Programmer
   => Membuat website dengan code html
 - Css
 - Botstrap
-- Laravel
-  => Menggunakan Javascript
-  => Menggunakan React js
-- Full Stack Developer
-  => Front-End Dev
-    ^ Menggunakan flowbite Blocks
+- Framework Laravel
+  => Menggunakan laravel 11
+  => Menggunakan MVC didalamnya
   => Back-End Dev
+      ^ Mysql & Laragon
