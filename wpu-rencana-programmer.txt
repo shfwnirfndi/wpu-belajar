@@ -4,3 +4,6 @@ Rencana Programmer
 - Css
 - Botstrap
 - Laravel
+- Full Stack Developer
+  => Front-End Dev
+  => Back-End Dev
