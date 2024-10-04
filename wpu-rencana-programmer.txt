@@ -8,3 +8,7 @@ Rencana Programmer
   => Menggunakan MVC didalamnya
   => Back-End Dev
       ^ Mysql & Laragon
+  => Front-End Dev
+      ^ Flowbite
+      ^ Bootstrap
+- Restful API
