@@ -3,8 +3,9 @@ Rencana Programmer
   => Membuat website dengan code html
 - Css
 - Botstrap
-- Laravel
+- Framework Laravel
   => Menggunakan laravel 11
+  => Menggunakan MVC didalamnya
 - Full Stack Developer
   => Front-End Dev
       ^ Bootstrap
